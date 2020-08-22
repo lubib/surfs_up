@@ -8,7 +8,7 @@ Overview:
   
 Results: 
 
-After generating the summary statistics for the June temperatures and the December temperatures we see that 
+After generating the summary statistics for June and December temperatures we see that 
 - minimun temperatures for the months are 64 in June and 56 in December and maximum tamperatures are 85 and 83 respectively
 - the mean for the month of June is 74.94 and the mean for the month of December is 71.04
 
